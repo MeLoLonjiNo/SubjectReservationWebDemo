@@ -3,7 +3,7 @@
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
 
-      SIT Subject Reservation Web by MeLoLonJiNo
+      SIT Subject Reservation Web by MeLoLonJiNo2
 
     </p>
     <br />
